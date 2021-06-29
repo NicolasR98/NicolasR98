@@ -48,7 +48,10 @@
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br/>
 
+## 💻 Codewars
+[![Codewars Badge](https://www.codewars.com/users/NicolasR98/badges/large)](https://www.codewars.com/users/NicolasR98)
 
+## 📊 Stats
 <a href="https://github.com/NicolasR98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasR98&theme=tokyonight&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasR98&theme=tokyonight&layout=compact" />
