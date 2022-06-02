@@ -1,6 +1,5 @@
 <h1 align="center">
   Hey there! I'm Nicolás.
-  <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> 
 </h1>
 
 <h2 align="center">
